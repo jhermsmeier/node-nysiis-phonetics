@@ -1,0 +1,27 @@
+{
+  "name": "nysiis-phonetics",
+  "version": "1.0.0",
+  "description": "NYSIIS phonetic algorithm",
+  "license": "MIT",
+  "keywords": [
+    "NYSIIS",
+    "phonetic"
+  ],
+  "main": "lib/nysiis",
+  "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de/)",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~2.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "homepage": "https://github.com/jhermsmeier/node-nysiis-phonetics",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhermsmeier/node-nysiis-phonetics.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-nysiis-phonetics/issues"
+  }
+}
