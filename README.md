@@ -1,7 +1,7 @@
 # NYSIIS (New York State Identification and Intelligence System) Phonetic Code
-[![npm](http://img.shields.io/npm/v/nysiis-phonetics.svg?style=flat-quare)](https://npmjs.com/nysiis-phonetics)
-[![npm downloads](http://img.shields.io/npm/dm/nysiis-phonetics.svg?style=flat-quare)](https://npmjs.com/nysiis-phonetics)
-[![build status](http://img.shields.io/travis/jhermsmeier/node-nysiis-phonetics.svg?style=flat-quare)](https://travis-ci.org/jhermsmeier/node-nysiis-phonetics)
+[![npm](http://img.shields.io/npm/v/nysiis-phonetics.svg?style=flat-square)](https://npmjs.com/nysiis-phonetics)
+[![npm downloads](http://img.shields.io/npm/dm/nysiis-phonetics.svg?style=flat-square)](https://npmjs.com/nysiis-phonetics)
+[![build status](http://img.shields.io/travis/jhermsmeier/node-nysiis-phonetics.svg?style=flat-square)](https://travis-ci.org/jhermsmeier/node-nysiis-phonetics)
 
 ## Install via [npm](https://npmjs.com)
 
